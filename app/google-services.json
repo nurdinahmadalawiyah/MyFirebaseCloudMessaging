@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "121431560370",
+    "firebase_url": "https://myfirebasecloudmessaging-fe785.firebaseio.com",
+    "project_id": "myfirebasecloudmessaging-fe785",
+    "storage_bucket": "myfirebasecloudmessaging-fe785.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121431560370:android:f04b9a3082a20fa964b9ab",
+        "android_client_info": {
+          "package_name": "com.nurdin.myfirebasecloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121431560370-s0npkegi49pgipd6g824k7t7vqjt2tj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRu5QN1oTpoPS8YM9Nt5A1c1yAECHDZ8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121431560370-s0npkegi49pgipd6g824k7t7vqjt2tj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
